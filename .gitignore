@@ -78,3 +78,5 @@ sdk/dist
 
 sdk/tests/e2e/videos/
 sdk/tests/e2e/screenshots/
+
+*.tar.gz
